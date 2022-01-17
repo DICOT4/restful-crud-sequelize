@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "restful_crud",
+    "options": {
+      "host": "localhost",
+      "dialect": "mysql",
+      "port": "3306",
+      "logging": false
+    }
+  }
+}
